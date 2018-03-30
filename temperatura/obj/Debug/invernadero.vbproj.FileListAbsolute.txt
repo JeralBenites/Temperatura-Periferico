@@ -1,0 +1,68 @@
+c:\users\user\documents\visual studio 2015\Projects\invernadero\invernadero\bin\Debug\invernadero.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\invernadero\invernadero\bin\Debug\invernadero.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\invernadero\invernadero\bin\Debug\invernadero.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\invernadero\invernadero\bin\Debug\invernadero.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\invernadero\invernadero\obj\Debug\invernadero.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\invernadero\invernadero\obj\Debug\invernadero.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\invernadero\invernadero\obj\Debug\invernadero.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\invernadero\invernadero\obj\Debug\invernadero.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\invernadero\invernadero\obj\Debug\invernadero.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\invernadero\invernadero\obj\Debug\invernadero.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\invernadero\invernadero\obj\Debug\invernadero.pdb
+C:\Users\Montana\Desktop\temperatura\temperatura\temperatura\obj\Debug\invernadero.vbprojResolveAssemblyReference.cache
+C:\Users\Montana\Desktop\temperatura\temperatura\temperatura\obj\Debug\invernadero.vbproj.GenerateResource.Cache
+C:\Users\Montana\Desktop\temperatura\temperatura\temperatura\bin\Debug\SensorTempUTP.exe.config
+C:\Users\Montana\Desktop\temperatura\temperatura\temperatura\bin\Debug\SensorTempUTP.exe
+C:\Users\Montana\Desktop\temperatura\temperatura\temperatura\bin\Debug\SensorTempUTP.pdb
+C:\Users\Montana\Desktop\temperatura\temperatura\temperatura\bin\Debug\SensorTempUTP.xml
+C:\Users\Montana\Desktop\temperatura\temperatura\temperatura\obj\Debug\SensorTempUTP.Form1.resources
+C:\Users\Montana\Desktop\temperatura\temperatura\temperatura\obj\Debug\SensorTempUTP.Resources.resources
+C:\Users\Montana\Desktop\temperatura\temperatura\temperatura\obj\Debug\SensorTempUTP.exe
+C:\Users\Montana\Desktop\temperatura\temperatura\temperatura\obj\Debug\SensorTempUTP.xml
+C:\Users\Montana\Desktop\temperatura\temperatura\temperatura\obj\Debug\SensorTempUTP.pdb
+C:\Users\Montana\Desktop\temperatura\temperatura\temperatura\bin\Debug\SensorTempUTP.exe.manifest
+C:\Users\Montana\Desktop\temperatura\temperatura\temperatura\bin\Debug\SensorTempUTP.application
+C:\Users\Montana\Desktop\temperatura\temperatura\temperatura\obj\Debug\SensorTempUTP.TrustInfo.xml
+C:\Users\Montana\Desktop\temperatura\temperatura\temperatura\obj\Debug\SensorTempUTP.exe.manifest
+C:\Users\Montana\Desktop\temperatura\temperatura\temperatura\obj\Debug\SensorTempUTP.application
+F:\temperatura\temperatura\temperatura\bin\Debug\SensorTempUTP.exe.config
+F:\temperatura\temperatura\temperatura\obj\Debug\SensorTempUTP.exe
+F:\temperatura\temperatura\temperatura\obj\Debug\SensorTempUTP.xml
+F:\temperatura\temperatura\temperatura\obj\Debug\SensorTempUTP.pdb
+F:\temperatura\temperatura\temperatura\obj\Debug\invernadero.vbprojResolveAssemblyReference.cache
+F:\temperatura\temperatura\temperatura\obj\Debug\SensorTempUTP.Form1.resources
+F:\temperatura\temperatura\temperatura\obj\Debug\SensorTempUTP.Resources.resources
+F:\temperatura\temperatura\temperatura\obj\Debug\invernadero.vbproj.GenerateResource.Cache
+F:\temperatura\temperatura\temperatura\obj\Debug\SensorTempUTP.TrustInfo.xml
+F:\temperatura\temperatura - copia\temperatura\obj\Debug\SensorTempUTP.Form1.resources
+F:\temperatura\temperatura - copia\temperatura\obj\Debug\SensorTempUTP.Resources.resources
+F:\temperatura\temperatura - copia\temperatura\obj\Debug\invernadero.vbproj.GenerateResource.Cache
+F:\temperatura\temperatura - copia\temperatura\obj\Debug\SensorTempUTP.TrustInfo.xml
+F:\temperatura\temperatura - copia\temperatura\obj\Debug\SensorTempUTP.exe
+F:\temperatura\temperatura - copia\temperatura\obj\Debug\SensorTempUTP.xml
+F:\temperatura\temperatura - copia\temperatura\obj\Debug\SensorTempUTP.pdb
+F:\temperatura\temperatura - copia\temperatura\bin\Debug\SensorTempUTP.exe.config
+F:\temperatura\temperatura - copia\temperatura\bin\Debug\SensorTempUTP.exe.manifest
+F:\temperatura\temperatura - copia\temperatura\bin\Debug\SensorTempUTP.application
+F:\temperatura\temperatura - copia\temperatura\bin\Debug\SensorTempUTP.exe
+F:\temperatura\temperatura - copia\temperatura\bin\Debug\SensorTempUTP.pdb
+F:\temperatura\temperatura - copia\temperatura\bin\Debug\SensorTempUTP.xml
+F:\temperatura\temperatura - copia\temperatura\obj\Debug\SensorTempUTP.exe.manifest
+F:\temperatura\temperatura - copia\temperatura\obj\Debug\SensorTempUTP.application
+F:\temperatura\temperatura - copia\temperatura\obj\Debug\invernadero.vbprojResolveAssemblyReference.cache
+F:\Programando\C\temperatura\temperatura - copia\temperatura\bin\Debug\SensorTempUTP.exe.config
+F:\Programando\C\temperatura\temperatura - copia\temperatura\obj\Debug\SensorTempUTP.exe
+F:\Programando\C\temperatura\temperatura - copia\temperatura\obj\Debug\SensorTempUTP.xml
+F:\Programando\C\temperatura\temperatura - copia\temperatura\obj\Debug\SensorTempUTP.pdb
+F:\Programando\C\temperatura\temperatura - copia\temperatura\bin\Debug\SensorTempUTP.exe.manifest
+F:\Programando\C\temperatura\temperatura - copia\temperatura\bin\Debug\SensorTempUTP.application
+F:\Programando\C\temperatura\temperatura - copia\temperatura\bin\Debug\SensorTempUTP.exe
+F:\Programando\C\temperatura\temperatura - copia\temperatura\bin\Debug\SensorTempUTP.pdb
+F:\Programando\C\temperatura\temperatura - copia\temperatura\bin\Debug\SensorTempUTP.xml
+F:\Programando\C\temperatura\temperatura - copia\temperatura\obj\Debug\invernadero.vbprojResolveAssemblyReference.cache
+F:\Programando\C\temperatura\temperatura - copia\temperatura\obj\Debug\SensorTempUTP.Form1.resources
+F:\Programando\C\temperatura\temperatura - copia\temperatura\obj\Debug\SensorTempUTP.Resources.resources
+F:\Programando\C\temperatura\temperatura - copia\temperatura\obj\Debug\invernadero.vbproj.GenerateResource.Cache
+F:\Programando\C\temperatura\temperatura - copia\temperatura\obj\Debug\SensorTempUTP.TrustInfo.xml
+F:\Programando\C\temperatura\temperatura - copia\temperatura\obj\Debug\SensorTempUTP.exe.manifest
+F:\Programando\C\temperatura\temperatura - copia\temperatura\obj\Debug\SensorTempUTP.application
