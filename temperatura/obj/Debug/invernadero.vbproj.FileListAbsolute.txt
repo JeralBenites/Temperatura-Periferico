@@ -66,3 +66,37 @@ F:\Programando\C\temperatura\temperatura - copia\temperatura\obj\Debug\invernade
 F:\Programando\C\temperatura\temperatura - copia\temperatura\obj\Debug\SensorTempUTP.TrustInfo.xml
 F:\Programando\C\temperatura\temperatura - copia\temperatura\obj\Debug\SensorTempUTP.exe.manifest
 F:\Programando\C\temperatura\temperatura - copia\temperatura\obj\Debug\SensorTempUTP.application
+F:\Programando\VB\Temperatura\Temperature\temperatura\bin\Debug\SensorTempUTP.exe.config
+F:\Programando\VB\Temperatura\Temperature\temperatura\bin\Debug\SensorTempUTP.exe.manifest
+F:\Programando\VB\Temperatura\Temperature\temperatura\bin\Debug\SensorTempUTP.application
+F:\Programando\VB\Temperatura\Temperature\temperatura\bin\Debug\SensorTempUTP.exe
+F:\Programando\VB\Temperatura\Temperature\temperatura\bin\Debug\SensorTempUTP.pdb
+F:\Programando\VB\Temperatura\Temperature\temperatura\bin\Debug\SensorTempUTP.xml
+F:\Programando\VB\Temperatura\Temperature\temperatura\obj\Debug\invernadero.vbprojResolveAssemblyReference.cache
+F:\Programando\VB\Temperatura\Temperature\temperatura\obj\Debug\SensorTempUTP.Form1.resources
+F:\Programando\VB\Temperatura\Temperature\temperatura\obj\Debug\SensorTempUTP.Resources.resources
+F:\Programando\VB\Temperatura\Temperature\temperatura\obj\Debug\invernadero.vbproj.GenerateResource.cache
+F:\Programando\VB\Temperatura\Temperature\temperatura\obj\Debug\invernadero.vbproj.CoreCompileInputs.cache
+F:\Programando\VB\Temperatura\Temperature\temperatura\obj\Debug\SensorTempUTP.TrustInfo.xml
+F:\Programando\VB\Temperatura\Temperature\temperatura\obj\Debug\SensorTempUTP.exe.manifest
+F:\Programando\VB\Temperatura\Temperature\temperatura\obj\Debug\SensorTempUTP.application
+F:\Programando\VB\Temperatura\Temperature\temperatura\obj\Debug\SensorTempUTP.exe
+F:\Programando\VB\Temperatura\Temperature\temperatura\obj\Debug\SensorTempUTP.xml
+F:\Programando\VB\Temperatura\Temperature\temperatura\obj\Debug\SensorTempUTP.pdb
+F:\Developing_xD\VB\Temperatura\Temperature\temperatura\bin\Debug\SensorTempUTP.exe.config
+F:\Developing_xD\VB\Temperatura\Temperature\temperatura\bin\Debug\SensorTempUTP.exe.manifest
+F:\Developing_xD\VB\Temperatura\Temperature\temperatura\bin\Debug\SensorTempUTP.application
+F:\Developing_xD\VB\Temperatura\Temperature\temperatura\bin\Debug\SensorTempUTP.exe
+F:\Developing_xD\VB\Temperatura\Temperature\temperatura\bin\Debug\SensorTempUTP.pdb
+F:\Developing_xD\VB\Temperatura\Temperature\temperatura\bin\Debug\SensorTempUTP.xml
+F:\Developing_xD\VB\Temperatura\Temperature\temperatura\obj\Debug\invernadero.vbprojAssemblyReference.cache
+F:\Developing_xD\VB\Temperatura\Temperature\temperatura\obj\Debug\SensorTempUTP.Form1.resources
+F:\Developing_xD\VB\Temperatura\Temperature\temperatura\obj\Debug\SensorTempUTP.Resources.resources
+F:\Developing_xD\VB\Temperatura\Temperature\temperatura\obj\Debug\invernadero.vbproj.GenerateResource.cache
+F:\Developing_xD\VB\Temperatura\Temperature\temperatura\obj\Debug\invernadero.vbproj.CoreCompileInputs.cache
+F:\Developing_xD\VB\Temperatura\Temperature\temperatura\obj\Debug\SensorTempUTP.TrustInfo.xml
+F:\Developing_xD\VB\Temperatura\Temperature\temperatura\obj\Debug\SensorTempUTP.exe.manifest
+F:\Developing_xD\VB\Temperatura\Temperature\temperatura\obj\Debug\SensorTempUTP.application
+F:\Developing_xD\VB\Temperatura\Temperature\temperatura\obj\Debug\SensorTempUTP.exe
+F:\Developing_xD\VB\Temperatura\Temperature\temperatura\obj\Debug\SensorTempUTP.xml
+F:\Developing_xD\VB\Temperatura\Temperature\temperatura\obj\Debug\SensorTempUTP.pdb
